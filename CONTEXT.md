@@ -1,10 +1,10 @@
-# Your company context
+PAB Restoration
 
 **Replace this file** with the CONTEXT for your assigned company:
-
-- **Brasaland** — `CONTEXT-brasaland-briefing.md` (grilled food restaurant chain, Colombia + Florida)
-- **TrackFlow** — `CONTEXT-trackflow-briefing.md` (last-mile delivery and warehouse, Mexico + Spain)
-- **Nexova** — `CONTEXT-nexova-briefing.md` (HR consulting and talent acquisition, Chile + Argentina)
+PAB is a residential construction company that handles exterior waterproofing mason, pointing & caulking.
+Exterior waterproofing mason is the process that creates a protective barrier around a building’s foundation to stop water infiltration at the source, preventing leaks, mold, and structural damage.
+Pointing is the process of finishing, repairing, or reinforcing mortar joints between bricks or stones by filling them with high-quality mortar.
+Caulking is the process of filling holes to seal or waterproof gaps within the home.
 
 Your instructor or milestone materials will point you to the correct CONTEXT file. Copy its contents here so that all project work and AI assistance use the same domain data, field names, and constraints.
 
